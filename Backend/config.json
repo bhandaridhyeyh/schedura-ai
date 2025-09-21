@@ -1,0 +1,25 @@
+{
+  "business_name": "Zenith Wellness Spa",
+  "business_description": "Serenity Spa & Wellness is a tranquil retreat dedicated to helping clients relax, rejuvenate, and restore balance in their lives. We offer a wide range of personalized services including therapeutic massages, revitalizing facials, body treatments, aromatherapy, and holistic wellness therapies. Our highly trained professionals use premium natural products and modern techniques to ensure a soothing and refreshing experience for every guest. Whether you’re seeking stress relief, skin care solutions, or a peaceful escape from daily life, Serenity Spa provides a warm, welcoming environment designed to promote both physical and mental well-being.",
+  "business_hours": {
+    "start": "09:00",
+    "end": "18:00"
+  },
+  "services": [
+    {
+      "name": "Deep Tissue Massage",
+      "duration_minutes": 60,
+      "price": "Rs. 800"
+    },
+    {
+      "name": "Aromatherapy Facial",
+      "duration_minutes": 45,
+      "price": "Rs. 650"
+    },
+    {
+      "name": "Yoga Session",
+      "duration_minutes": 75,
+      "price": "Rs. 500"
+    }
+  ]
+}

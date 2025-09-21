@@ -1,0 +1,47 @@
+# --- Python / Backend ---
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Sensitive Google credentials (CRITICAL)
+token.json
+credentials.json
+
+
+# --- Node.js / Frontend ---
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Log files
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite-specific cache
+.vite/
+
+
+# --- IDE & OS Files ---
+
+# VSCode
+.vscode/
+
+# JetBrains (PyCharm, WebStorm, etc.)
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
